@@ -1,0 +1,3 @@
+/Users/yousefwesam398gmail.com/الكورس التامن/Days-Hours-Min-Sec in a year/cmake-build-debug/CMakeFiles/Days_Hours_Min_Sec_in_a_year.dir
+/Users/yousefwesam398gmail.com/الكورس التامن/Days-Hours-Min-Sec in a year/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yousefwesam398gmail.com/الكورس التامن/Days-Hours-Min-Sec in a year/cmake-build-debug/CMakeFiles/rebuild_cache.dir
